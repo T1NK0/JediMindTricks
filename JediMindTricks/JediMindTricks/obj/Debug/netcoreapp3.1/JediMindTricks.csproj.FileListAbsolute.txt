@@ -1,0 +1,13 @@
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\bin\Debug\netcoreapp3.1\JediMindTricks.exe
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\obj\Debug\netcoreapp3.1\JediMindTricks.csprojAssemblyReference.cache
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\obj\Debug\netcoreapp3.1\JediMindTricks.AssemblyInfoInputs.cache
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\obj\Debug\netcoreapp3.1\JediMindTricks.AssemblyInfo.cs
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\obj\Debug\netcoreapp3.1\JediMindTricks.csproj.CoreCompileInputs.cache
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\bin\Debug\netcoreapp3.1\JediMindTricks.deps.json
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\bin\Debug\netcoreapp3.1\JediMindTricks.runtimeconfig.json
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\bin\Debug\netcoreapp3.1\JediMindTricks.runtimeconfig.dev.json
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\bin\Debug\netcoreapp3.1\JediMindTricks.dll
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\bin\Debug\netcoreapp3.1\JediMindTricks.pdb
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\obj\Debug\netcoreapp3.1\JediMindTricks.dll
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\obj\Debug\netcoreapp3.1\JediMindTricks.pdb
+C:\Users\mads8340\source\repos\JediMindTricks\JediMindTricks\obj\Debug\netcoreapp3.1\JediMindTricks.genruntimeconfig.cache
